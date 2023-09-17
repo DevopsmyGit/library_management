@@ -1,0 +1,11 @@
+F:\Asran\Repository\lms-common\bin\Debug\net6.0-windows\lms-common.deps.json
+F:\Asran\Repository\lms-common\bin\Debug\net6.0-windows\lms-common.dll
+F:\Asran\Repository\lms-common\bin\Debug\net6.0-windows\lms-common.pdb
+F:\Asran\Repository\lms-common\obj\Debug\net6.0-windows\lms-common.GeneratedMSBuildEditorConfig.editorconfig
+F:\Asran\Repository\lms-common\obj\Debug\net6.0-windows\lms-common.AssemblyInfoInputs.cache
+F:\Asran\Repository\lms-common\obj\Debug\net6.0-windows\lms-common.AssemblyInfo.cs
+F:\Asran\Repository\lms-common\obj\Debug\net6.0-windows\lms-common.csproj.CoreCompileInputs.cache
+F:\Asran\Repository\lms-common\obj\Debug\net6.0-windows\lms-common.dll
+F:\Asran\Repository\lms-common\obj\Debug\net6.0-windows\refint\lms-common.dll
+F:\Asran\Repository\lms-common\obj\Debug\net6.0-windows\lms-common.pdb
+F:\Asran\Repository\lms-common\obj\Debug\net6.0-windows\ref\lms-common.dll
